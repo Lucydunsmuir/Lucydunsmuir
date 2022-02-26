@@ -7,6 +7,8 @@
 - 👀 I'm Interested in gaining skills in UX and furthering my knowlege of Front end Technologies and Strengthening my skills in Testing 
 - 📫 How to reach me --> www.linkedin.com/in/lucymdunsmuir
 
+<!--START_SECTION:activity-->
+
 <!---
 Lucydunsmuir/Lucydunsmuir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
